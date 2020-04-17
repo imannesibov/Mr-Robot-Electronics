@@ -1,0 +1,17 @@
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\bin\Debug\Mr Robot Electronics.exe.config
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\bin\Debug\Mr Robot Electronics.exe
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\bin\Debug\Mr Robot Electronics.pdb
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics.csprojAssemblyReference.cache
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\App.g.cs
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics_MarkupCompile.cache
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics_MarkupCompile.lref
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics.g.resources
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr_Robot_Electronics.Properties.Resources.resources
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics.csproj.GenerateResource.cache
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics.exe
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Mr Robot Electronics.pdb
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\App.baml
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\Style\Dictionary.baml
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\View\MainWindow.g.cs
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\View\MainWindow.baml
+C:\Users\Iman\source\repos\Mr Robot Electronics\Mr Robot Electronics\obj\Debug\GeneratedInternalTypeHelper.g.cs
